@@ -1,0 +1,1 @@
+# evaluating-the-root-of-a-polynomial-by-using-bisection-secant-and-hybrid-methods
